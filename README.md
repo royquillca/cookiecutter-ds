@@ -25,6 +25,10 @@ In a folder where you want your generate your project:
 cookiecutter https://github.com/royquillca/cookiecutter-ds
 ```
 
+## Demo
+
+[![Alt text](https://img.youtube.com/vi/HQxNCA0gZ7E/0.jpg)](https://www.youtube.com/watch?v=HQxNCA0gZ7E)
+
 ## Resulting directory structure
 
     ├── LICENSE
