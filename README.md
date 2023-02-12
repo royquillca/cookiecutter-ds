@@ -28,7 +28,7 @@ cookiecutter https://github.com/royquillca/cookiecutter-ds
 ## Demo
 
 <a href="https://www.youtube.com/watch?v=HQxNCA0gZ7E" target="_blank">
-  <img src="https://img.youtube.com/vi/HQxNCA0gZ7E/0.jpg" alt="demo-video-thumbnail-added">
+  <img src="https://img.youtube.com/vi/HQxNCA0gZ7E/0.jpg" alt="demo-video-thumbnail-added" style="display: block; margin: 0 auto;">
 </a>
 
 ## Resulting directory structure
