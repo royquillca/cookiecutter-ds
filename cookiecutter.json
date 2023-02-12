@@ -1,10 +1,13 @@
 {
-    "project_title": "Cookiecutter Personal",
+    "project_title": "Cookiecutter Data Science",
     "project_slug": "{{ cookiecutter.project_title.lower().replace(' ', '_').replace('-','_') }}",
-    "project_description":  "Add description",
-    "project_author_name": "Your name",
+    "project_module_name": "src",
+    "project_author_name": "Your name (or your organization/team/company)",
+    "project_author_email": "Your email (or your organization/team/company)",
+    "project_description":  "Add a short description of your project",
     "project_packages": ["All", "Minimal"],
     "python_version": "3.7.9",
-    "project_license": "MIT",
-    "virtualenv_name": "venv"
+    "virtualenv_name": "venv",
+    "project_version": "0.1.0",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"]
 }
