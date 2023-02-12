@@ -15,6 +15,7 @@ print(f"Creating the virtual enviroment...{RESET_ALL}")
 subprocess.call(["virtualenv", f"{virtualenv_name}"]) # Usando virtual env
 print(f"{MESSAGE_COLOR}The virtual environment have been created succesfully.{RESET_ALL}")
 
+
 # print(f"Accessing the virtual environment {virtualenv_name}...{RESET_ALL}")
 # os.system(f"source {virtualenv_name}/Scripts/activate && pip install requirements.txt")
 # subprocess.call(["pip","install", "-r", "requirements.txt"])
